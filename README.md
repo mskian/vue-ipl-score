@@ -1,4 +1,4 @@
-# Live Cricket Score
+# Live IPL Cricket Score
 
 ![build-test](https://github.com/mskian/vue-ipl-score/workflows/build-test/badge.svg)  
 
